@@ -49,7 +49,7 @@ require (
 	github.com/google/go-containerregistry v0.0.0-20200121192426-b0ae1fc74a66
 	github.com/google/go-github/v28 v28.1.1
 	github.com/gorilla/mux v1.7.3
-	github.com/gorilla/websocket v1.4.0
+	github.com/gorilla/websocket v1.4.1
 	github.com/imdario/mergo v0.3.8
 	github.com/justinbarrick/go-k8s-portforward v1.0.4-0.20190722134107-d79fe1b9d79d
 	github.com/opencontainers/go-digest v1.0.0-rc1
